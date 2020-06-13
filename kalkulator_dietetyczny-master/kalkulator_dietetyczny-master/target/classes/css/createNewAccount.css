@@ -1,0 +1,24 @@
+.button {
+    -fx-font-family: "sans-serif";
+    -fx-font-size: 13px;
+    -fx-background-color: #1ce852;
+}
+
+#createNewAccountPane {
+	-fx-background-image:url("../images/warzywa.jpg");
+	
+	
+}
+.button:hover {
+	-fx-background-color:#e86a1c;
+	
+}
+
+.label {
+	-fx-background-color:#c7e6b8;
+	-fx-font-family: "sans-serif";
+	-fx-font-size: 13px;
+	-fx-text-fill: #000000;
+	
+	
+}

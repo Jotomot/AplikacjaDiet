@@ -1,0 +1,23 @@
+.button {
+    -fx-font-family: "sans-serif";
+    -fx-font-size: 13px;
+    -fx-background-color: #1ce852;
+}
+
+.button:hover {
+	-fx-background-color:#e86a1c;
+	
+}
+
+#menuScreenPane {
+	-fx-background-image:url("../images/healthy.jpg");
+	
+	-fx-background-size: 100%;
+	 
+}
+
+
+.label {
+	-fx-font-family: "sans-serif";
+	-fx-font-size: 13px;
+}

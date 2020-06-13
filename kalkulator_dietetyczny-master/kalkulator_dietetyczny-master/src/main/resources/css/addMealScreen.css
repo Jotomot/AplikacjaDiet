@@ -1,0 +1,19 @@
+.button {
+    -fx-font-family: "sans-serif";
+    -fx-font-size: 13px;
+    -fx-background-color: #1ce852;
+}
+
+.button:hover {
+	-fx-background-color:#e86a1c;
+	
+}
+
+.label {
+	-fx-font-family: "sans-serif";
+	-fx-font-size: 13px;
+}
+
+#addMealScreenPane {
+	-fx-background-image:url("../images/dieta.jpg");
+}
